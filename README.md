@@ -4,7 +4,7 @@ Modded version of zapret by bol-van and Flowseal. It bypasses DPI blocking and i
 
 This is a modded version of **zapret**, originally created by [@bol-van](https://github.com/bol-van/zapret) and [@Flowseal](https://github.com/Flowseal/zapret-discord-youtube)).
 [!IMPORTANT]
-## 🎮 How to Connect to European Minecraft Servers
+> ## 🎮 How to Connect to European Minecraft Servers
 
 Even if you are facing DPI blocking, you can easily connect to European servers:
 1. Open the `zapret-MCEU_by_knox` folder.
