@@ -7,7 +7,7 @@ This is a modded version of **zapret**, originally created by [@bol-van](https:/
 ## 🎮 How to Connect to European Minecraft Servers
 
 Even if you are facing DPI blocking, you can easily connect to European servers:
-1. Open the `zapret_MCEU_by_knox` folder.
+1. Open the `zapret-MCEU_by_knox` folder.
 2. Find the **MC_EU** strategy file.
 3. Simply run/open this file.
 4. Switch back to your game and enjoy playing!
