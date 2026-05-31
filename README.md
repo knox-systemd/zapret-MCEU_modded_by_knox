@@ -2,7 +2,7 @@
 Modded version of zapret by bol-van and Flowseal. It bypasses DPI blocking and includes the MC_EU strategy, which allows connecting to European Minecraft servers.
 # zapret-MCEU_modded_by_knox
 
-This is a modded version of **zapret**, originally created by [@bol-van](https://github.com/bol-van/zapret) and [@Flowseal]([https://github.com](https://github.com/Flowseal/zapret-discord-youtube)).
+This is a modded version of **zapret**, originally created by [@bol-van](https://github.com/bol-van/zapret) and [@Flowseal](https://github.com/Flowseal/zapret-discord-youtube)).
 
 ## 🎮 How to Connect to European Minecraft Servers
 
