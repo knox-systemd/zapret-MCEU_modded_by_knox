@@ -25,21 +25,12 @@ This is a modded version of **zapret**, originally created by [@bol-van](https:/
 > **P.S.** The `list-general` file has been modified in this version. Please note that you do not need to enable the MC_EU strategy to access the following websites; they have been added to the bypass list for a more comfortable gaming experience:
 > * curseforge.com
 > * ://curseforge.com
-> * ://curseforge.com
-> * ://curseforge.com
-> * ://curseforge.com
-> * ://curseforge.com
-> * ://curseforge.com
 > * cursecdn.com
 > * forgecdn.net
 > * files.forgecdn.net
 > * overwolf.com
 > * overwolf-content.azureedge.net
 > * modrinth.com
-> * ://modrinth.com
-> * ://modrinth.com
-> * ://modrinth.com
-> * ://modrinth.com
 > * ://modrinth.com
 > * knossos.dev
 > * api.knossos.dev
