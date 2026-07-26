@@ -27,5 +27,5 @@ This is a modded version of **zapret**, originally created by [@bol-van](https:/
 
 ### 🔹 general.list Bypass / Обход сайтов через general.list
 
-**EN:** This mod also includes a modified **general.list** file. It allows you to bypass blocking on essential gaming websites without turning on the MC_EU strategy. To use it, move the downloaded `general.list` into the `zapret/zapret-winws/list` folder and replace the old file.
+**EN:** This mod also includes a modified **general.list** file. It allows you to bypass blocking on essential gaming websites without turning on the MC_EU strategy. To use it, move the downloaded `general.list` into the `zapret/zapret-winws/list` folder and replace the old file.                                         
 **RU:** Этот мод также включает измененный файл **general.list**. Он позволяет обходить блокировку важных игровых сайтов без включения стратегии MC_EU. Чтобы использовать его, перенесите скачанный `general.list` в папку `zapret/zapret-winws/list` и замените старый файл.
