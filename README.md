@@ -15,6 +15,7 @@ This is a modded version of **zapret**, originally created by [@bol-van](https:/
 ### 🔹 MC_EU.bat Strategy / Стратегия MC_EU.bat
 
 **EN:** To use the **MC_EU.bat** strategy, simply download it and place it directly into your main **zapret** folder. To run it, open the file and press **Enter**.
+1
 **RU:** Чтобы использовать стратегию **MC_EU.bat**, просто скачайте её и положите в главную папку **zapret**. Для запуска откройте этот файл и нажмите **Enter**.
 
 > ⚠️ **ATTENTION / ВНИМАНИЕ**
